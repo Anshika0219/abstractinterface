@@ -1,0 +1,8 @@
+C:\Project\abstract\abstract\bin\Debug\@abstract.exe.config
+C:\Project\abstract\abstract\bin\Debug\@abstract.exe
+C:\Project\abstract\abstract\bin\Debug\@abstract.pdb
+C:\Project\abstract\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+C:\Project\abstract\abstract\obj\Debug\abstract.csproj.SuggestedBindingRedirects.cache
+C:\Project\abstract\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+C:\Project\abstract\abstract\obj\Debug\@abstract.exe
+C:\Project\abstract\abstract\obj\Debug\@abstract.pdb
